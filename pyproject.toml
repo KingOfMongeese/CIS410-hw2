@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "hw2"
+version = "0.1.0"
+description = ""
+authors = ["KingOfMongeese <nwohletz@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tk = "^0.1.0"
+
+
+[tool.poetry.group.dev.dependencies]
+mypy = "^1.11.1"
+black = "^24.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
