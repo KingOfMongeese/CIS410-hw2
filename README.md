@@ -24,9 +24,7 @@ Enter a number (int) and click on your prefered temp.
 
 This project uses poetry to ensure consitent builds.
 
-First ensure you are working under the hw2 folder, your dir structure should look like:
-
-![dir struct](images/dir-image.png)
+All commands are ran from the root of the project.
 
 to install poetry (if not already installed): 
 
