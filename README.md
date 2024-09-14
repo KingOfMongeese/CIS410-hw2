@@ -41,3 +41,7 @@ to run type testing:
 to run the code formater:
 
 ``` poetry run black -l 120 hw2```
+
+to run code formatter in check mode: 
+
+```poetry run black -l 120 --check hw2```
